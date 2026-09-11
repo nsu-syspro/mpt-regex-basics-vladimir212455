@@ -1,2 +1,2 @@
-grep -o -i -w "двер[ьа-я]*" data/pushkin.txt | wc -l
+grep -o -i -w "дверь" data/pushkin.txt | wc -l
 
